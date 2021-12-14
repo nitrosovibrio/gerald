@@ -1,6 +1,6 @@
 # gerald
 it's gerald!
-there are a couple aspects of gerald.
+there are a couple aspects of gerald, with branches devoted to each.
 
 one is his language skills.
 
