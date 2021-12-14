@@ -1,6 +1,7 @@
 # gerald
-it's gerald! there are a number of word lists that are pulled in by sentence.py and randomly chosen
-it's a longer script with a lot of repetition, so some of it breaks, especially some of the specific rules
-current version is v3 (what is uploaded now).
-integration into twitch is easy if you just open a text box and select the source from file to be 'sentenceout.txt', at which point you can just run the script and it will populate
-py sentence.py
+it's gerald!
+there are a couple aspects of gerald.
+one is his language skills.
+another is his Dark Souls Class/Gift choosing.
+the final for now is his Dark Souls Leveling.
+see each branch for the code and more info.
