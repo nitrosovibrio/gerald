@@ -1,6 +1,15 @@
 # gerald
-it's gerald! there are a number of word lists that are pulled in by sentence.py and randomly chosen
-it's a longer script with a lot of repetition, so some of it breaks, especially some of the specific rules
-current version is v3 (what is uploaded now).
-integration into twitch is easy if you just open a text box and select the source from file to be 'sentenceout.txt', at which point you can just run the script and it will populate
-py sentence.py
+it's gerald! 
+gerald randomly chooses words from the associated word lists (.txt files) to construct one of 11 randomly chosen sentence patterns.
+
+current version is v7 (as of 20-Dec-2021).
+
+integration into twitch via text box source file = 'what-out.txt'.
+
+just run the script either by command line (windows):
+
+	c:\directory-with-things-in-it\py what.py
+
+or by having python installd (I used 3.8.6) and double-clicking the file what.py
+
+or by opening what.py in the python IDLE an running it
