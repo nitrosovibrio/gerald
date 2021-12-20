@@ -1,7 +1,14 @@
-ATM
+﻿ATM
 CD
 SUV
 TV
+Estus
+ember
+ashen one
+soul
+dragon
+darksign
+humanity
 aardvark
 abacus
 abbey
@@ -2389,6 +2396,7 @@ flan
 flanker
 flare
 flash
+flask
 flat
 flatboat
 flavor
@@ -6798,4 +6806,4 @@ zoo
 zoologist
 zoology
 zoot-suit
-zucchini
+zucchini 
