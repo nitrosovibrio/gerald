@@ -6,9 +6,9 @@ current version is v7 (as of 20-Dec-2021).
 
 integration into twitch via text box source file = 'what-out.txt'.
 
-just run the script either by command line (windows):
+just run the script either by command line from the working directory (windows):
 
-	c:\directory-with-things-in-it\py what.py
+	py what.py
 
 or by having python installd (I used 3.8.6) and double-clicking the file what.py
 
