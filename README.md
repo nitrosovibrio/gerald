@@ -1,5 +1,5 @@
 # gerald
-it's gerald! 
+
 gerald randomly chooses words from the associated word lists (.txt files) to construct one of 11 randomly chosen sentence patterns.
 
 current version is v7 (as of 20-Dec-2021).
