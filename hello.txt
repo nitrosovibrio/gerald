@@ -1,6 +1,6 @@
-if (a == "nebsi605"){"Hey nebsi, how is the weather in winter land?".}
-else if (a == "suda_trop"){"Hey suda, welcome back to the grind!".}
-else if (a == “Sweezus_christ”){“Hey Sweezus, welcome to the stream! I promise not to time you out.”.)
-else if (a == “aredmongoose”){“Welcome, Mongoose!”.}
-else if (a == “colldudes”){“Hey colldudes, thanks for stopping by!”.)
-else {"Welcome to the stream!".}
+if (a == "nebsi605"){"Hey nebsi, how is the weather in winter land?"}
+else if (a == "suda_trop"){"Hey suda, welcome back to the grind!"}
+else if (a == “Sweezus_christ”){“Hey Sweezus, welcome to the stream! I promise not to time you out.”)
+else if (a == “aredmongoose”){“Welcome, Mongoose!”}
+else if (a == “colldudes”){“Hey colldudes, thanks for stopping by!”)
+else {"Welcome to the stream!"}
