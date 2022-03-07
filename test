@@ -1,2 +1,2 @@
-if (a == "nitrosovibrio"){"hey what do you want?".}
-else {"nope".}
+if (a == "nitrosovibrio"){"hey what do you want?"}
+else {"nope"}
